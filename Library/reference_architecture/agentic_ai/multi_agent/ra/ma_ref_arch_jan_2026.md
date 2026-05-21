@@ -29,7 +29,7 @@ Together, these layers form a cohesive system that supports safe, reliable, and 
 
 # Multi Agent Reference Architecture
 
-![My diagram](ma_ref_arch_jan_2026.svg)
+![My diagram](assets/ma_ref_arch_jan_2026.svg)
 
 
 # User Interaction Layer
